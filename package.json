@@ -1,6 +1,6 @@
 {
   "name": "ironmq-promise",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Promise wrapper for the iron_mq package (which is a peer dependency of this package)",
   "main": "index.js",
   "scripts": {
